@@ -1,19 +1,19 @@
 [
   {
-    "Id": "08365272-6868-4482-9384-b720d0121533",
-    "Title": "",
-    "Image": "images/playlists/",
-    "LevelId": "",
-    "AudienceId": "",
-    "TechnologyId": "",
+    "Id": "a8cbac83-f7e8-45ff-a4a6-6b04f31a5745",
+    "Title": "Modern SharePoint Editing Experience",
+    "Image": "images/playlists/share_and_coauthor.png",
+    "LevelId": "a5522c84-14c5-4b36-b28e-9c6364837c98",
+    "AudienceId": "71ec9903-1498-49e2-8514-428e35617b18",
+    "TechnologyId": "a97cb2db-55fb-43ec-8ded-67909ce1c61f",
     "SubjectId": "",
-    "Source": "SOC",
-    "CatId": "",
-    "Description": "",
+    "Source": "Microsoft",
+    "CatId": "e5e2ae74-20ff-4626-937d-df4ff3405f29",
+    "Description": "Learn about the text editor web part to add text content, formatting and display.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
-      ""
+      "28dad67b-adb8-4df5-822b-677d81968eda"
     ]
   }
 ]
