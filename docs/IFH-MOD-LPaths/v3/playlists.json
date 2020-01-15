@@ -17,6 +17,27 @@
     ]
   },
   {
+    "Id": "24216b89-7d0d-4263-b61e-2ecbda58f1df",
+    "Title": "SharePoint Online Quick Start",
+    "Image": "images/playlists/sharepoint_online_quick_start.png",
+    "LevelId": "f800c81b-ba2b-4b0f-9de5-3d42a0f45202",
+    "AudienceId": "b704880e-1289-48fe-80f7-a8acacf9bc1b",
+    "TechnologyId": "a97cb2db-55fb-43ec-8ded-67909ce1c61f",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "e5e2ae74-20ff-4626-937d-df4ff3405f29",
+    "Description": "Build and customize intranet sites, collaborate with others, manage your daily routine with workflows, and store your information",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+        "324a89ec-e77b-4475-b64a-13a0c14c45ec",
+        "21722d7d-bcb1-4ee0-b86a-6c107bf646c7",
+        "0c5c3345-0a61-4532-971c-5a1e0970fde3",
+        "4d1e11bf-8ddc-499d-b889-2b48d10b1ce8",
+        "539608ac-4725-455e-aea0-9ca1f769849f"
+    ]
+},
+  {
     "Id": "d9ce4776-272c-4b62-8f17-d71326e71230",
     "Title": "Getting started with Microsoft Forms",
     "Image": "images/playlists/forms_quick_startx.png",
