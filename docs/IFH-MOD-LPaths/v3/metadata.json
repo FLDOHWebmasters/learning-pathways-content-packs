@@ -140,7 +140,7 @@
         {
           "Id": "7ffaf9e5-6063-4861-b5f2-9c95c8701661",
           "Name": "InsideFLHealth Site architecture",
-          "Image": "images/categories/use_across_org.png",
+          "Image": "images/playlists/use_across_org.png",
           "TechnologyId": "a97cb2db-55fb-43ec-8ded-67909ce1c61f",
           "SubjectId": null,
           "Source": "DOHWebTeam",
@@ -158,7 +158,7 @@
         {
           "Id": "506BABEA-7B0E-46CD-86F8-FF39240B5ABA",
           "Name": "News Management",
-          "Image": "images/categories/whats-new-whats-changed.png",
+          "Image": "images/playlists/whats-new-whats-changed.png",
           "TechnologyId": "a97cb2db-55fb-43ec-8ded-67909ce1c61f",
           "SubjectId": null,
           "Source": "DOHWebTeam",
@@ -167,7 +167,7 @@
         {
           "Id": "B784E8EF-79EE-4B26-BF18-D18A53D88EFC",
           "Name": "Content Management (Lists and Libraries)",
-          "Image": "images/categories/create_office_files.png",
+          "Image": "images/playlists/create_office_files.png",
           "TechnologyId": "a97cb2db-55fb-43ec-8ded-67909ce1c61f",
           "SubjectId": null,
           "Source": "DOHWebTeam",
@@ -176,7 +176,7 @@
         {
           "Id": "8D5DCFC8-3427-4FB5-B4BF-B43616CF2023",
           "Name": "Permissions Management",
-          "Image": "images/categories/modern_workplace_trainingx.png",
+          "Image": "images/playlists/modern_workplace_trainingx.png",
           "TechnologyId": "a97cb2db-55fb-43ec-8ded-67909ce1c61f",
           "SubjectId": null,
           "Source": "DOHWebTeam",
