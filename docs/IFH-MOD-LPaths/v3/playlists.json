@@ -37,6 +37,90 @@
         "539608ac-4725-455e-aea0-9ca1f769849f"
     ]
 },
+{
+  "Id": "41e36d62-b046-4d3e-be44-f9df56025b31",
+  "Title": "Types of sites",
+  "Image": "images/playlists/sharepoint_online_quick_start.png",
+  "LevelId": "f800c81b-ba2b-4b0f-9de5-3d42a0f45202",
+  "AudienceId": "b704880e-1289-48fe-80f7-a8acacf9bc1b",
+  "TechnologyId": "a97cb2db-55fb-43ec-8ded-67909ce1c61f",
+  "SubjectId": "",
+  "Source": "Microsoft",
+  "CatId": "7ffaf9e5-6063-4861-b5f2-9c95c8701661",
+  "Description": "Build and customize intranet sites, collaborate with others, manage your daily routine with workflows, and store your information",
+  "StatusTagId": "",
+  "StatusNote": "",
+  "Assets": [
+      "324a89ec-e77b-4475-b64a-13a0c14c45ec",
+      "21722d7d-bcb1-4ee0-b86a-6c107bf646c7",
+      "0c5c3345-0a61-4532-971c-5a1e0970fde3",
+      "4d1e11bf-8ddc-499d-b889-2b48d10b1ce8",
+      "539608ac-4725-455e-aea0-9ca1f769849f"
+  ]
+},
+{
+  "Id": "859138bb-e858-4873-8fc2-9a8d2dd54af8",
+  "Title": "When to choose which site",
+  "Image": "images/playlists/sharepoint_online_quick_start.png",
+  "LevelId": "f800c81b-ba2b-4b0f-9de5-3d42a0f45202",
+  "AudienceId": "b704880e-1289-48fe-80f7-a8acacf9bc1b",
+  "TechnologyId": "a97cb2db-55fb-43ec-8ded-67909ce1c61f",
+  "SubjectId": "",
+  "Source": "Microsoft",
+  "CatId": "7ffaf9e5-6063-4861-b5f2-9c95c8701661",
+  "Description": "Build and customize intranet sites, collaborate with others, manage your daily routine with workflows, and store your information",
+  "StatusTagId": "",
+  "StatusNote": "",
+  "Assets": [
+      "324a89ec-e77b-4475-b64a-13a0c14c45ec",
+      "21722d7d-bcb1-4ee0-b86a-6c107bf646c7",
+      "0c5c3345-0a61-4532-971c-5a1e0970fde3",
+      "4d1e11bf-8ddc-499d-b889-2b48d10b1ce8",
+      "539608ac-4725-455e-aea0-9ca1f769849f"
+  ]
+},
+{
+  "Id": "1b575717-9724-4a10-b448-3d94893804a3",
+  "Title": "Navigation - Linking between sites",
+  "Image": "images/playlists/sharepoint_online_quick_start.png",
+  "LevelId": "f800c81b-ba2b-4b0f-9de5-3d42a0f45202",
+  "AudienceId": "b704880e-1289-48fe-80f7-a8acacf9bc1b",
+  "TechnologyId": "a97cb2db-55fb-43ec-8ded-67909ce1c61f",
+  "SubjectId": "",
+  "Source": "Microsoft",
+  "CatId": "7ffaf9e5-6063-4861-b5f2-9c95c8701661",
+  "Description": "Build and customize intranet sites, collaborate with others, manage your daily routine with workflows, and store your information",
+  "StatusTagId": "",
+  "StatusNote": "",
+  "Assets": [
+      "324a89ec-e77b-4475-b64a-13a0c14c45ec",
+      "21722d7d-bcb1-4ee0-b86a-6c107bf646c7",
+      "0c5c3345-0a61-4532-971c-5a1e0970fde3",
+      "4d1e11bf-8ddc-499d-b889-2b48d10b1ce8",
+      "539608ac-4725-455e-aea0-9ca1f769849f"
+  ]
+},
+{
+  "Id": "B00B90DE-A583-44E1-9099-E1FF142C87E1",
+  "Title": "Integrating with Teams",
+  "Image": "images/playlists/sharepoint_online_quick_start.png",
+  "LevelId": "f800c81b-ba2b-4b0f-9de5-3d42a0f45202",
+  "AudienceId": "b704880e-1289-48fe-80f7-a8acacf9bc1b",
+  "TechnologyId": "a97cb2db-55fb-43ec-8ded-67909ce1c61f",
+  "SubjectId": "",
+  "Source": "Microsoft",
+  "CatId": "7ffaf9e5-6063-4861-b5f2-9c95c8701661",
+  "Description": "Build and customize intranet sites, collaborate with others, manage your daily routine with workflows, and store your information",
+  "StatusTagId": "",
+  "StatusNote": "",
+  "Assets": [
+      "324a89ec-e77b-4475-b64a-13a0c14c45ec",
+      "21722d7d-bcb1-4ee0-b86a-6c107bf646c7",
+      "0c5c3345-0a61-4532-971c-5a1e0970fde3",
+      "4d1e11bf-8ddc-499d-b889-2b48d10b1ce8",
+      "539608ac-4725-455e-aea0-9ca1f769849f"
+  ]
+},
   {
     "Id": "d9ce4776-272c-4b62-8f17-d71326e71230",
     "Title": "Getting started with Microsoft Forms",

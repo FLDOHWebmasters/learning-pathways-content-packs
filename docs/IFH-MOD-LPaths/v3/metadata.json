@@ -140,6 +140,51 @@
         {
           "Id": "7ffaf9e5-6063-4861-b5f2-9c95c8701661",
           "Name": "InsideFLHealth Site architecture",
+          "Image": "images/categories/use_across_org.png",
+          "TechnologyId": "a97cb2db-55fb-43ec-8ded-67909ce1c61f",
+          "SubjectId": null,
+          "Source": "DOHWebTeam",
+          "SubCategories": []
+        },
+        {
+          "Id": "4C7A69E5-AAB0-4BDE-AE9C-870F6FB18E7E",
+          "Name": "Home page Management",
+          "Image": "images/categories/toolkit.png",
+          "TechnologyId": "a97cb2db-55fb-43ec-8ded-67909ce1c61f",
+          "SubjectId": null,
+          "Source": "DOHWebTeam",
+          "SubCategories": []
+        },
+        {
+          "Id": "506BABEA-7B0E-46CD-86F8-FF39240B5ABA",
+          "Name": "News Management",
+          "Image": "images/categories/whats-new-whats-changed.png",
+          "TechnologyId": "a97cb2db-55fb-43ec-8ded-67909ce1c61f",
+          "SubjectId": null,
+          "Source": "DOHWebTeam",
+          "SubCategories": []
+        },
+        {
+          "Id": "B784E8EF-79EE-4B26-BF18-D18A53D88EFC",
+          "Name": "Content Management (Lists and Libraries)",
+          "Image": "images/categories/create_office_files.png",
+          "TechnologyId": "a97cb2db-55fb-43ec-8ded-67909ce1c61f",
+          "SubjectId": null,
+          "Source": "DOHWebTeam",
+          "SubCategories": []
+        },
+        {
+          "Id": "8D5DCFC8-3427-4FB5-B4BF-B43616CF2023",
+          "Name": "Permissions Management",
+          "Image": "images/categories/modern_workplace_trainingx.png",
+          "TechnologyId": "a97cb2db-55fb-43ec-8ded-67909ce1c61f",
+          "SubjectId": null,
+          "Source": "DOHWebTeam",
+          "SubCategories": []
+        },
+        {
+          "Id": "C7495A6E-05F4-46AB-9493-D885C6649117",
+          "Name": "Components",
           "Image": "images/categories/sharepoint.png",
           "TechnologyId": "a97cb2db-55fb-43ec-8ded-67909ce1c61f",
           "SubjectId": null,
