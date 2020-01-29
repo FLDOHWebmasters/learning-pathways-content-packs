@@ -121,6 +121,132 @@
       "539608ac-4725-455e-aea0-9ca1f769849f"
   ]
 },
+{
+  "Id": "20B88529-08E0-49CB-B2A5-36AE14FA2E15",
+  "Title": "Creating a new Site page",
+  "Image": "images/playlists/sharepoint_online_quick_start.png",
+  "LevelId": "f800c81b-ba2b-4b0f-9de5-3d42a0f45202",
+  "AudienceId": "b704880e-1289-48fe-80f7-a8acacf9bc1b",
+  "TechnologyId": "a97cb2db-55fb-43ec-8ded-67909ce1c61f",
+  "SubjectId": "",
+  "Source": "Microsoft",
+  "CatId": "4C7A69E5-AAB0-4BDE-AE9C-870F6FB18E7E",
+  "Description": "Build and customize intranet sites, collaborate with others, manage your daily routine with workflows, and store your information",
+  "StatusTagId": "",
+  "StatusNote": "",
+  "Assets": [
+      "324a89ec-e77b-4475-b64a-13a0c14c45ec",
+      "21722d7d-bcb1-4ee0-b86a-6c107bf646c7",
+      "0c5c3345-0a61-4532-971c-5a1e0970fde3",
+      "4d1e11bf-8ddc-499d-b889-2b48d10b1ce8",
+      "539608ac-4725-455e-aea0-9ca1f769849f"
+  ]
+},
+{
+"Id": "2911B253-ED89-48B0-AE13-A4F5C426AE54",
+"Title": "Changing the Layout",
+"Image": "images/playlists/sharepoint_online_quick_start.png",
+"LevelId": "f800c81b-ba2b-4b0f-9de5-3d42a0f45202",
+"AudienceId": "b704880e-1289-48fe-80f7-a8acacf9bc1b",
+"TechnologyId": "a97cb2db-55fb-43ec-8ded-67909ce1c61f",
+"SubjectId": "",
+"Source": "Microsoft",
+"CatId": "4C7A69E5-AAB0-4BDE-AE9C-870F6FB18E7E",
+"Description": "Build and customize intranet sites, collaborate with others, manage your daily routine with workflows, and store your information",
+"StatusTagId": "",
+"StatusNote": "",
+"Assets": [
+    "324a89ec-e77b-4475-b64a-13a0c14c45ec",
+    "21722d7d-bcb1-4ee0-b86a-6c107bf646c7",
+    "0c5c3345-0a61-4532-971c-5a1e0970fde3",
+    "4d1e11bf-8ddc-499d-b889-2b48d10b1ce8",
+    "539608ac-4725-455e-aea0-9ca1f769849f"
+]
+},
+{
+"Id": "8E4F60DD-1CCC-48DB-A831-3B5672AC9A48",
+"Title": "Adding Web Parts",
+"Image": "images/playlists/sharepoint_online_quick_start.png",
+"LevelId": "f800c81b-ba2b-4b0f-9de5-3d42a0f45202",
+"AudienceId": "b704880e-1289-48fe-80f7-a8acacf9bc1b",
+"TechnologyId": "a97cb2db-55fb-43ec-8ded-67909ce1c61f",
+"SubjectId": "",
+"Source": "Microsoft",
+"CatId": "4C7A69E5-AAB0-4BDE-AE9C-870F6FB18E7E",
+"Description": "Build and customize intranet sites, collaborate with others, manage your daily routine with workflows, and store your information",
+"StatusTagId": "",
+"StatusNote": "",
+"Assets": [
+    "324a89ec-e77b-4475-b64a-13a0c14c45ec",
+    "21722d7d-bcb1-4ee0-b86a-6c107bf646c7",
+    "0c5c3345-0a61-4532-971c-5a1e0970fde3",
+    "4d1e11bf-8ddc-499d-b889-2b48d10b1ce8",
+    "539608ac-4725-455e-aea0-9ca1f769849f"
+]
+},
+{
+  "Id": "D174A0D8-7620-4501-B6D5-D83DF0C2FE54",
+  "Title": "Publishing the Page",
+  "Image": "images/playlists/sharepoint_online_quick_start.png",
+  "LevelId": "f800c81b-ba2b-4b0f-9de5-3d42a0f45202",
+  "AudienceId": "b704880e-1289-48fe-80f7-a8acacf9bc1b",
+  "TechnologyId": "a97cb2db-55fb-43ec-8ded-67909ce1c61f",
+  "SubjectId": "",
+  "Source": "Microsoft",
+  "CatId": "4C7A69E5-AAB0-4BDE-AE9C-870F6FB18E7E",
+  "Description": "Build and customize intranet sites, collaborate with others, manage your daily routine with workflows, and store your information",
+  "StatusTagId": "",
+  "StatusNote": "",
+  "Assets": [
+      "324a89ec-e77b-4475-b64a-13a0c14c45ec",
+      "21722d7d-bcb1-4ee0-b86a-6c107bf646c7",
+      "0c5c3345-0a61-4532-971c-5a1e0970fde3",
+      "4d1e11bf-8ddc-499d-b889-2b48d10b1ce8",
+      "539608ac-4725-455e-aea0-9ca1f769849f"
+  ]
+},
+{
+"Id": "122A9372-9665-4EA1-BED7-5ADBBB4902FB",
+"Title": "Promoting the Page",
+"Image": "images/playlists/sharepoint_online_quick_start.png",
+"LevelId": "f800c81b-ba2b-4b0f-9de5-3d42a0f45202",
+"AudienceId": "b704880e-1289-48fe-80f7-a8acacf9bc1b",
+"TechnologyId": "a97cb2db-55fb-43ec-8ded-67909ce1c61f",
+"SubjectId": "",
+"Source": "Microsoft",
+"CatId": "4C7A69E5-AAB0-4BDE-AE9C-870F6FB18E7E",
+"Description": "Build and customize intranet sites, collaborate with others, manage your daily routine with workflows, and store your information",
+"StatusTagId": "",
+"StatusNote": "",
+"Assets": [
+    "324a89ec-e77b-4475-b64a-13a0c14c45ec",
+    "21722d7d-bcb1-4ee0-b86a-6c107bf646c7",
+    "0c5c3345-0a61-4532-971c-5a1e0970fde3",
+    "4d1e11bf-8ddc-499d-b889-2b48d10b1ce8",
+    "539608ac-4725-455e-aea0-9ca1f769849f"
+]
+},
+{
+"Id": "2404F755-720C-4744-8A3C-61D467C8FB9C",
+"Title": "Changing the site’s home page",
+"Image": "images/playlists/sharepoint_online_quick_start.png",
+"LevelId": "f800c81b-ba2b-4b0f-9de5-3d42a0f45202",
+"AudienceId": "b704880e-1289-48fe-80f7-a8acacf9bc1b",
+"TechnologyId": "a97cb2db-55fb-43ec-8ded-67909ce1c61f",
+"SubjectId": "",
+"Source": "Microsoft",
+"CatId": "4C7A69E5-AAB0-4BDE-AE9C-870F6FB18E7E",
+"Description": "Build and customize intranet sites, collaborate with others, manage your daily routine with workflows, and store your information",
+"StatusTagId": "",
+"StatusNote": "",
+"Assets": [
+    "324a89ec-e77b-4475-b64a-13a0c14c45ec",
+    "21722d7d-bcb1-4ee0-b86a-6c107bf646c7",
+    "0c5c3345-0a61-4532-971c-5a1e0970fde3",
+    "4d1e11bf-8ddc-499d-b889-2b48d10b1ce8",
+    "539608ac-4725-455e-aea0-9ca1f769849f"
+]
+},
   {
     "Id": "d9ce4776-272c-4b62-8f17-d71326e71230",
     "Title": "Getting started with Microsoft Forms",
